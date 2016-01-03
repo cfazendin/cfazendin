@@ -1,0 +1,18 @@
+# Site settings
+title: "Christopher Fazendin"
+description: "A site that I rarely maintain or even remember exists."
+
+#
+baseurl: ""
+url: "http://cfazendin.com/"
+
+#
+google_analytics: "UA-8443019-3"
+github_repository: https://github.com/cfazendin
+
+# Build settings
+markdown: kramdown
+permalink:    pretty
+paginate:     4
+post_limit: 5
+
