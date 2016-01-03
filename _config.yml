@@ -15,4 +15,3 @@ markdown: kramdown
 permalink:    pretty
 paginate:     4
 post_limit: 5
-
